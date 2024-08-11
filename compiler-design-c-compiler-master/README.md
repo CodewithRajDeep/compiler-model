@@ -21,19 +21,4 @@ The compilation process is a sequence of various phases. Each phase takes input 
 4. [Inermediate Code Generation](https://github.com/manas11/compiler-design-c-compiler/tree/master/ICG)
 
 
-## Contributors and maintainers
 
-This project and repository is created and maintained by:
-
-* **Manas Gupta**
-    
- Github: [manas11](https://github.com/manas11)
-    
-* **Animesh Kumar**
-    
- Github: [animeshk08](https://github.com/animeshk08)
-
- 
-* **Aditya Rastogi**
-    
- Github: [aditya-rastogi23](https://github.com/aditya-rastogi23)
